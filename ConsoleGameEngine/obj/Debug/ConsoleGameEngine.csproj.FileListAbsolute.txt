@@ -6,3 +6,11 @@ C:\Users\Akif\Desktop\Dosyalar\Kodlamalar\CS\ConsoleGameEngine\ConsoleGameEngine
 C:\Users\Akif\Desktop\Dosyalar\Kodlamalar\CS\ConsoleGameEngine\ConsoleGameEngine\ConsoleGameEngine\obj\Debug\ConsoleGameEngine.csproj.CoreCompileInputs.cache
 C:\Users\Akif\Desktop\Dosyalar\Kodlamalar\CS\ConsoleGameEngine\ConsoleGameEngine\ConsoleGameEngine\obj\Debug\ConsoleGameEngine.exe
 C:\Users\Akif\Desktop\Dosyalar\Kodlamalar\CS\ConsoleGameEngine\ConsoleGameEngine\ConsoleGameEngine\obj\Debug\ConsoleGameEngine.pdb
+C:\Users\Akif\Desktop\Dosyalar\Kodlamalar\CS\ConsoleGameEngine\obj\Debug\ConsoleGameEngine.csproj.AssemblyReference.cache
+C:\Users\Akif\Desktop\Dosyalar\Kodlamalar\CS\ConsoleGameEngine\obj\Debug\ConsoleGameEngine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akif\Desktop\Dosyalar\Kodlamalar\CS\ConsoleGameEngine\obj\Debug\ConsoleGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\Akif\Desktop\Dosyalar\Kodlamalar\CS\ConsoleGameEngine\bin\Debug\ConsoleGameEngine.exe.config
+C:\Users\Akif\Desktop\Dosyalar\Kodlamalar\CS\ConsoleGameEngine\bin\Debug\ConsoleGameEngine.exe
+C:\Users\Akif\Desktop\Dosyalar\Kodlamalar\CS\ConsoleGameEngine\bin\Debug\ConsoleGameEngine.pdb
+C:\Users\Akif\Desktop\Dosyalar\Kodlamalar\CS\ConsoleGameEngine\obj\Debug\ConsoleGameEngine.exe
+C:\Users\Akif\Desktop\Dosyalar\Kodlamalar\CS\ConsoleGameEngine\obj\Debug\ConsoleGameEngine.pdb

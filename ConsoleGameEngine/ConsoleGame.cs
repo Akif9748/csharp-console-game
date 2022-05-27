@@ -40,16 +40,9 @@ namespace ConsoleGameTest
         {
             Clear();
 
-            string write = "";
-
             foreach (char[] line in map)
-            {
+                Console.WriteLine(string.Join("", line));
 
-                string str = string.Join("", line) + "\n";
-                write += str;
-
-            }
-            Console.Write(write);
 
 
         }
@@ -83,9 +76,8 @@ namespace ConsoleGameTest
 
 
                 for (int i = 0; i < x; i++)
-                {
                     arr2[i] = character;
-                }
+
 
 
                 arr[line] = arr2;

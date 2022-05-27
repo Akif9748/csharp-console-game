@@ -16,7 +16,7 @@ namespace ConsoleGameTest
 
             ConsoleGame game = new ConsoleGame();
             ConsoleKeyInfo keyInfo;
-            
+
             //First render:
             game.Set(pos[0], pos[1], character);
 
